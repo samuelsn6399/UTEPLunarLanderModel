@@ -1,0 +1,8 @@
+﻿-I"C:\Users\samue\OneDrive\Documents\MatLab\UTEP Internship\UTEP Lander\Lander_Model_Current"
+-I"C:\Users\samue\OneDrive\Documents\MatLab\UTEP Internship\UTEP Lander\Lander_Model_Current\slprj\ert\_sharedutils"
+-I"C:\Program Files\MATLAB\R2024a\extern\include"
+-I"C:\Program Files\MATLAB\R2024a\simulink\include"
+-I"C:\Program Files\MATLAB\R2024a\rtw\c\src"
+-I"C:\Program Files\MATLAB\R2024a\rtw\c\src\ext_mode\common"
+-I"C:\Program Files\MATLAB\R2024a\rtw\c\ert"
+-IC:\ProgramData\MATLAB\SupportPackages\R2024a\toolbox\target\supportpackages\px4\include
